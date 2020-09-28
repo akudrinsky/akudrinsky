@@ -15,7 +15,7 @@ A C-like language, which is Turing-complete and can be compiled to Mach-O execut
 I was tired of finding derivatives of different functions, so created my small version of Wolfram Alpha, that can find derivatives and explains how it did that in a short latex report. (C/C++, LaTeX)
 
 
-**Additional information.**
+## Additional information.
 
 **Education:** MIPT, DIHT, third semester. (currently GPA is 9.67/10, best course result in a faculty)
 
