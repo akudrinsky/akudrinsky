@@ -1,8 +1,10 @@
 ![](RackMultipart20200928-4-17jrps_html_7b37e56075dd1568.png)
 Kudrinsky Alexey
+
 ![](RackMultipart20200928-4-17jrps_html_cb55ddb5edd60516.gif)
 Moscow, Russia.
 ![](RackMultipart20200928-4-17jrps_html_cb55ddb5edd60516.gif)
+
 [kudrinsky](mailto:kudrinsky.am@gmail.com)[.am@gmail.com](mailto:kudrinsky.am@gmail.com)
 
 ![](RackMultipart20200928-4-17jrps_html_cb55ddb5edd60516.gif)
