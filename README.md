@@ -25,7 +25,7 @@ I was tired of finding derivatives of different functions, so created my small v
 
 **Additional information.**
 
-**Education:** MIPT, DIHT, second semester. (currently GPA is 9.67/10, best course result in a faculty)
+**Education:** MIPT, DIHT, third semester. (currently GPA is 9.67/10, best course result in a faculty)
 
 **Awards:** European Physics Olympiad, bronze medal. (2018)
 
