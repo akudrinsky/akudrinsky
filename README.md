@@ -1,4 +1,4 @@
-# H1 Kudrinsky Alexey
+# Kudrinsky Alexey
 
 Moscow, Russia.
 
