@@ -1,13 +1,6 @@
-![](RackMultipart20200928-4-17jrps_html_7b37e56075dd1568.png)
-Kudrinsky Alexey
+# H1 Kudrinsky Alexey
 
-![](RackMultipart20200928-4-17jrps_html_cb55ddb5edd60516.gif)
 Moscow, Russia.
-![](RackMultipart20200928-4-17jrps_html_cb55ddb5edd60516.gif)
-
-[kudrinsky](mailto:kudrinsky.am@gmail.com)[.am@gmail.com](mailto:kudrinsky.am@gmail.com)
-
-![](RackMultipart20200928-4-17jrps_html_cb55ddb5edd60516.gif)
 
 **07.20 - 08.20 Creator - website**
 
@@ -21,7 +14,6 @@ A C-like language, which is Turing-complete and can be compiled to Mach-O execut
 
 I was tired of finding derivatives of different functions, so created my small version of Wolfram Alpha, that can find derivatives and explains how it did that in a short latex report. (C/C++, LaTeX)
 
-![](RackMultipart20200928-4-17jrps_html_cb55ddb5edd60516.gif)
 
 **Additional information.**
 
